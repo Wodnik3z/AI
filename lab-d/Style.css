@@ -1,0 +1,32 @@
+html {
+    background-color: #1579d6;
+}
+
+body {
+    font-family: arial;
+    color: rgb(0, 0, 0);
+}
+
+#weather-search {
+    display: flex;
+    align-items: center; 
+}
+
+.weather-block {
+    
+    background: #e08318;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+
+
+#checkButton {
+    margin: 10px;
+}
